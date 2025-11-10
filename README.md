@@ -44,7 +44,7 @@ El modelo final alcanza una **precisión de ~89.7%** en el conjunto de pruebas.
     pip install torch datasets numpy scikit-learn matplotlib seaborn
     ```
 
-### 🏃 Ejecución
+### Ejecución
 
 1.  Abre el Jupyter Notebook:
     ```bash
@@ -63,7 +63,7 @@ El modelo final alcanza una **precisión de ~89.7%** en el conjunto de pruebas.
     * Evaluará el modelo en el conjunto de prueba.
     * Ejecutará pruebas con ejemplos personalizados.
 
-## 🧠 Detalles de Implementación
+## Detalles de Implementación
 
 ### 1. Tokenizador BPE (`SimpleTokenizer`)
 
